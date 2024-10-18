@@ -1,0 +1,9 @@
+interference,count,treatment
+Never,165,Treated
+Never,24,Not treated
+Rarely,700,Treated
+Rarely,113,Not treated
+Sometimes,808,Treated
+Sometimes,672,Not treated
+Often,166,Treated
+Often,1183,Not treated
